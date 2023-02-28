@@ -22,11 +22,11 @@ Soy un estudiante apasionado en adquirir y aplicar conocimientos de desarrollo w
 </br>
 Y alguna más...
 
+## Contacto
+[![Email](https://img.shields.io/badge/email-pedro.jordan.sg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PedroJS21-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedrojs21)
+
 ## 📈Mis estadísticas
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJS21&show_icons=true&theme=city_lights)](https://github.com/PedroJS21/github-readme-stats)|![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJS21&show_icons=true&theme=city_lights)|
 |---|---|
 
-## Contacto
-[![Email](https://img.shields.io/badge/email-pedro.jordan.sg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PedroJS21-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedrojs21)
-</br>
