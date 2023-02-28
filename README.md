@@ -3,7 +3,7 @@
 
 Soy un estudiante apasionado en adquirir y aplicar conocimientos de desarrollo web 👨‍💻 , que domina el inglés y cuenta con conocimiento en manejo de BD y Git. Desarrollo páginas web y sus diferentes integraciones, siendo mi principal objetivo el de involucrarme en una empresa para realizar un trabajo en equipo óptimo, organizado y proactivo.
 
-## Tecnologías:
+## ‍💻Tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
@@ -22,8 +22,13 @@ Soy un estudiante apasionado en adquirir y aplicar conocimientos de desarrollo w
 </br>
 Y alguna más...
 
-## Contacto
-[![Email](https://img.shields.io/badge/email-pedro.jordan.sg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
+## 🚀Proyectos
+_Me encanta hacer proyectos para incrementar mis habilidades y mantenerme aprendiendo sobre nuevas tecnologias. Aqui hay algunos de ellos:_
+- [Coinbase Homepage - SASS and Bootstrap](https://github.com/pedrojs21/CoinbaseProject)
+
+
+## ➡️Contacto
+[![Email](https://img.shields.io/badge/email-pedro.jordan.sg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PedroJS21-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedrojs21)
 
 ## 📈Mis estadísticas
